@@ -1,4 +1,4 @@
-# Techleft Solutions
+# Techleft 
 
 A Next.js project using Tailwind CSS and Framer Motion.
 
